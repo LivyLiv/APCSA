@@ -1,14 +1,16 @@
 package Chapter05;
 
-
 import java.util.Scanner;
+
 /**
- * Program to display the number of positives and negatives, the total and the averages
+ * Program to display the number of positives and negatives, the total and the
+ * averages
  *
  * @author Olivia Gearhart
  */
 public class C5_1 {
- /**
+
+    /**
      * Main Method
      *
      * @param args arguments from command line prompt
