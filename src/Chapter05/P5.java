@@ -1,14 +1,15 @@
 package Chapter05;
 
-
 import java.util.Scanner;
+
 /**
  * Program to display votes
  *
  * @author Olivia Gearhart
  */
 public class P5 {
- /**
+
+    /**
      * Main Method
      *
      * @param args arguments from command line prompt
